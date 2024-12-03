@@ -28,7 +28,7 @@
         "number": {
             "description": "Phone Number (without +)",
             "type": "integer",
-            "default": "1234567890"
+            "default": 1234567890
         },
         "url": {
             "description": "URL of the report/story to share",
